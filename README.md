@@ -66,7 +66,6 @@ We provide **bespoke software development** for the manufacturing industry. Use 
 Looking for a tailored solution or a private version? Reach out to us:
 
 * **Website**: [www.3dquotehelper.com](https://www.3dquotehelper.com/)
-* **Company**: Shenzhen Mingji Technology Co., Ltd. (深圳市明吉科技有限公司)
 * **Email**: szxmj2023@gmail.com
 
 ---
