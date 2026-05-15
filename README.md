@@ -20,21 +20,21 @@ By leveraging **WebAssembly (Wasm)** and **WebGL**, the tool processes STP/STEP/
 
 ### 🚀 Key Features
 
+* **Automated Archive Analysis**: Support for **ZIP and RAR** files. Simply drop a compressed package, and the tool automatically extracts and analyzes all 3D models within.
 * **Batch 3D Measurement**: Automatically extract the Max Bounding Box ($L \times W \times H$) and volume for multiple files at once.
 * **Fast 3D Screenshot**: Capture high-resolution images of your models from standard angles for technical documentation.
-* **One-Click Excel Export**: Export all dimensions and part metadata into a professional Excel sheet for instant quoting.
-* **100% Privacy-First**: All processing happens on the **client-side**. Your CAD files are never uploaded to any server.
+* **One-Click Excel Export**: Export all extracted dimensions and part metadata into a professional Excel sheet for instant quoting.
+* **100% Privacy-First**: **Client-side processing.** Your CAD files are never uploaded to any server, keeping your IP secure.
 * **Multi-Format Support**: High-precision parsing for `.stp`, `.step`, and `.igs` files.
 
 ---
 
 ## 🔍 Targeted Keywords (SEO)
-*3D Viewer, Online STP Viewer, Batch 3D Measurement, Auto CAD Screenshot, CNC Quoting Tool, Sheet Metal Dimensioning, Web-based CAD, STEP File Analyzer, Industrial 3D Visualization, Automated RFQ.*
+*3D Viewer, Online STP Viewer, ZIP/RAR CAD Analyzer, Batch 3D Measurement, Auto CAD Screenshot, CNC Quoting Tool, Sheet Metal Dimensioning, Web-based CAD, STEP File Analyzer, Industrial 3D Visualization, Automated RFQ.*
 
 ---
 
 ## 🛠 Tech Stack
-
 
 * **Rendering**: Three.js / WebGL for smooth 3D interaction.
 * **Frontend**: React & Next.js for a responsive, modern interface.
