@@ -55,7 +55,7 @@ By leveraging **WebAssembly (Wasm)** and **WebGL**, the tool processes industria
 We specialize in building **automated online ordering platforms for 3D printing and CNC service providers**. Use our 3D core to digitize your customer acquisition and workflow.
 
 **Our Expertise Includes:**
-* **Online Ordering Platforms (3D打印在线接单平台)**: Web-based portals where customers upload models, get instant price estimates based on volume/material, and place orders.
+* **Online Ordering Platforms **: Web-based portals where customers upload models, get instant price estimates based on volume/material, and place orders.
 * **ERP/MES 3D Integration**: Seamlessly embed 3D previews and technical data into your production management systems.
 * **AI-Powered Quoting**: Custom logic to estimate costs based on support structures, material density, and machine runtime.
 * **Automated SOP Generation**: Custom scripts for file conversion and automated production instruction sheets.
