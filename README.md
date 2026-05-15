@@ -35,7 +35,7 @@ By leveraging **WebAssembly (Wasm)** and **WebGL**, the tool processes STP/STEP/
 
 ## 🛠 Tech Stack
 
-* **Engine**: OpenCascade (OCCT) via WebAssembly for industrial-grade geometric kernels.
+
 * **Rendering**: Three.js / WebGL for smooth 3D interaction.
 * **Frontend**: React & Next.js for a responsive, modern interface.
 
