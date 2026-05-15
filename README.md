@@ -7,6 +7,11 @@
 
 ---
 
+## 📸 Preview
+![3D Quote Helper Demo](./screenshots/demo1.jpg)
+
+---
+
 ## 🌟 Overview
 
 **3D Quote Helper** is a high-performance 3D utility tailored for CNC machining, sheet metal fabrication, and rapid prototyping. It eliminates the need for expensive CAD software by providing a fast, browser-based solution for **3D measurement**, **batch screenshots**, and **quotation data preparation**.
@@ -15,11 +20,11 @@ By leveraging **WebAssembly (Wasm)** and **WebGL**, the tool processes STP/STEP/
 
 ### 🚀 Key Features
 
-*   **Batch 3D Measurement**: Automatically extract the Max Bounding Box ($L \times W \times H$) and volume for multiple files at once.
-*   **Fast 3D Screenshot**: Capture high-resolution images of your models from standard angles for technical documentation.
-*   **One-Click Excel Export**: Export all dimensions and part metadata into a professional Excel sheet for instant quoting.
-*   **100% Privacy-First**: All processing happens on the **client-side**. Your CAD files are never uploaded to any server.
-*   **Multi-Format Support**: High-precision parsing for `.stp`, `.step`, and `.igs` files.
+* **Batch 3D Measurement**: Automatically extract the Max Bounding Box ($L \times W \times H$) and volume for multiple files at once.
+* **Fast 3D Screenshot**: Capture high-resolution images of your models from standard angles for technical documentation.
+* **One-Click Excel Export**: Export all dimensions and part metadata into a professional Excel sheet for instant quoting.
+* **100% Privacy-First**: All processing happens on the **client-side**. Your CAD files are never uploaded to any server.
+* **Multi-Format Support**: High-precision parsing for `.stp`, `.step`, and `.igs` files.
 
 ---
 
@@ -30,9 +35,9 @@ By leveraging **WebAssembly (Wasm)** and **WebGL**, the tool processes STP/STEP/
 
 ## 🛠 Tech Stack
 
-*   **Engine**: OpenCascade (OCCT) via WebAssembly for industrial-grade geometric kernels.
-*   **Rendering**: Three.js / WebGL for smooth 3D interaction.
-*   **Frontend**: React & Next.js for a responsive, modern interface.
+* **Engine**: OpenCascade (OCCT) via WebAssembly for industrial-grade geometric kernels.
+* **Rendering**: Three.js / WebGL for smooth 3D interaction.
+* **Frontend**: React & Next.js for a responsive, modern interface.
 
 ---
 
@@ -49,10 +54,10 @@ By leveraging **WebAssembly (Wasm)** and **WebGL**, the tool processes STP/STEP/
 We provide **bespoke software development** for the manufacturing industry. Use our 3D core to power your own digital transformation.
 
 **Our Expertise Includes:**
-*   **ERP/MES 3D Integration**: Seamlessly embed 3D previews into your production workflow.
-*   **AI-Powered Quoting**: Custom logic to estimate costs based on hole counts, bends, and material volume.
-*   **CAD Automation**: Custom scripts for file conversion and automated SOP generation.
-*   **Private Enterprise Deployment**: Secure, local-network 3D management systems.
+* **ERP/MES 3D Integration**: Seamlessly embed 3D previews into your production workflow.
+* **AI-Powered Quoting**: Custom logic to estimate costs based on hole counts, bends, and material volume.
+* **CAD Automation**: Custom scripts for file conversion and automated SOP generation.
+* **Private Enterprise Deployment**: Secure, local-network 3D management systems.
 
 ---
 
@@ -60,9 +65,9 @@ We provide **bespoke software development** for the manufacturing industry. Use 
 
 Looking for a tailored solution or a private version? Reach out to us:
 
-*   **Website**: [www.3dquotehelper.com](https://www.3dquotehelper.com/)
-*   **Company**: Shenzhen Mingji Technology Co., Ltd. (深圳市明吉科技有限公司)
-*   **Email**: szxmj2023@gmail.com
+* **Website**: [www.3dquotehelper.com](https://www.3dquotehelper.com/)
+* **Company**: Shenzhen Mingji Technology Co., Ltd. (深圳市明吉科技有限公司)
+* **Email**: szxmj2023@gmail.com
 
 ---
 
